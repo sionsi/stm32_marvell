@@ -1,0 +1,67 @@
+.\out\ethernetif.o: ..\net\lwip\src\netif\ethernetif.c
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/opt.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/debug.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/debug.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/arch.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/arch/cc.h
+.\out\ethernetif.o: ..\config\app_cfg.h
+.\out\ethernetif.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdio.h
+.\out\ethernetif.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdint.h
+.\out\ethernetif.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdlib.h
+.\out\ethernetif.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\string.h
+.\out\ethernetif.o: ..\app\inc\type.h
+.\out\ethernetif.o: ..\kernel\api\inc\atomic.h
+.\out\ethernetif.o: ..\kernel\api\inc\api.h
+.\out\ethernetif.o: ..\kernel\ucos\include\ucos_ii.h
+.\out\ethernetif.o: ..\kernel\ucos\include\os_cfg.h
+.\out\ethernetif.o: ..\kernel\ucos\include\os_cpu.h
+.\out\ethernetif.o: ..\kernel\api\inc\atomic.h
+.\out\ethernetif.o: ..\kernel\api\inc\mbox.h
+.\out\ethernetif.o: ..\kernel\api\inc\api.h
+.\out\ethernetif.o: ..\kernel\api\inc\mutex.h
+.\out\ethernetif.o: ..\kernel\api\inc\sem.h
+.\out\ethernetif.o: ..\kernel\api\inc\wait.h
+.\out\ethernetif.o: ..\kernel\api\inc\task.h
+.\out\ethernetif.o: ..\kernel\api\inc\timer.h
+.\out\ethernetif.o: ..\kernel\api\inc\msg_q.h
+.\out\ethernetif.o: ..\kernel\api\inc\memory.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/opt.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/def.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/mem.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/pbuf.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/err.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/sys.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/arch/sys_arch.h
+.\out\ethernetif.o: ..\kernel\ucos\include\cpu.h
+.\out\ethernetif.o: ..\kernel\ucos\include\cpu_def.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/stats.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/memp.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/memp_std.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/snmp.h
+.\out\ethernetif.o: ..\net\lwip\src\include\ipv4\lwip/ip_addr.h
+.\out\ethernetif.o: ..\net\lwip\src\include\netif/etharp.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/netif.h
+.\out\ethernetif.o: ..\net\lwip\src\include\ipv4\lwip/ip.h
+.\out\ethernetif.o: ..\net\lwip\src\include\netif/ppp_oe.h
+.\out\ethernetif.o: ..\app\inc\app.h
+.\out\ethernetif.o: ..\app\inc\debug.h
+.\out\ethernetif.o: ..\app\inc\sys_misc.h
+.\out\ethernetif.o: ..\app\inc\tcpapp.h
+.\out\ethernetif.o: ..\app\inc\wifi.h
+.\out\ethernetif.o: ..\net\wpa\wpa.h
+.\out\ethernetif.o: ..\net\wlan_src\mlinux\defs.h
+.\out\ethernetif.o: ..\net\wlan_src\mlinux\moal_cfg80211.h
+.\out\ethernetif.o: ..\net\wlan_src\mlinux\moal_main.h
+.\out\ethernetif.o: ..\net\wlan_src\user\usr_cfg.h
+.\out\ethernetif.o: ..\net\wlan_src\mlan\mlan_decl.h
+.\out\ethernetif.o: ..\net\wlan_src\mlan\mlan_ioctl.h
+.\out\ethernetif.o: ..\net\lwip\src\include\lwip/sockets.h
+.\out\ethernetif.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stddef.h
+.\out\ethernetif.o: ..\net\lwip\src\include\ipv4\lwip/inet.h
+.\out\ethernetif.o: ..\net\wlan_src\mlan\mlan_ieee.h
+.\out\ethernetif.o: ..\net\wlan_src\user\skbuff.h
+.\out\ethernetif.o: ..\net\wlan_src\mlinux\netdevice.h
+.\out\ethernetif.o: ..\net\wlan_src\mlinux\cfg80211.h
+.\out\ethernetif.o: ..\net\wlan_src\mlinux\nl80211.h
+.\out\ethernetif.o: ..\net\wlan_src\mlinux\ieee80211.h
+.\out\ethernetif.o: ..\net\wlan_src\mlinux\regulatory.h

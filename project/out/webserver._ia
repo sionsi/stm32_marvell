@@ -1,0 +1,1 @@
+--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1" -I "d:\Keil\ARM\INC" -I "d:\Keil\ARM\INC\ST\STM32F10x" --list ".\list\webserver.lst" --xref -o ".\out\webserver.o" --depend ".\out\webserver.d" "..\app\src\webserver.c"

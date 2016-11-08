@@ -1,0 +1,86 @@
+.\out\main.o: ..\app\src\main.c
+.\out\main.o: ..\drivers\stm32f10x\inc\drivers.h
+.\out\main.o: ..\bsp\stm32f1xx\CMSIS\bsp.h
+.\out\main.o: ..\bsp\stm32f1xx\CMSIS\stm32f10x_conf.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_adc.h
+.\out\main.o: ..\bsp\stm32f1xx\CMSIS\stm32f10x.h
+.\out\main.o: ..\bsp\stm32f1xx\CMSIS\core_cm3.h
+.\out\main.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdint.h
+.\out\main.o: ..\bsp\stm32f1xx\CMSIS\system_stm32f10x.h
+.\out\main.o: ..\bsp\stm32f1xx\CMSIS\stm32f10x_conf.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_can.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_crc.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_dac.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_dbgmcu.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_dma.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_exti.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_flash.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_fsmc.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_gpio.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_i2c.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_iwdg.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_pwr.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_rcc.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_rtc.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_sdio.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_spi.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_tim.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_usart.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\stm32f10x_wwdg.h
+.\out\main.o: ..\bsp\stm32f1xx\FWlib\inc\misc.h
+.\out\main.o: ..\drivers\stm32f10x\inc\driver_misc.h
+.\out\main.o: ..\drivers\stm32f10x\inc\usart.h
+.\out\main.o: ..\kernel\api\inc\api.h
+.\out\main.o: ..\kernel\ucos\include\ucos_ii.h
+.\out\main.o: ..\config\app_cfg.h
+.\out\main.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdio.h
+.\out\main.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stdlib.h
+.\out\main.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\string.h
+.\out\main.o: ..\app\inc\type.h
+.\out\main.o: ..\kernel\ucos\include\os_cfg.h
+.\out\main.o: ..\kernel\ucos\include\os_cpu.h
+.\out\main.o: ..\kernel\api\inc\atomic.h
+.\out\main.o: ..\kernel\api\inc\api.h
+.\out\main.o: ..\kernel\api\inc\mbox.h
+.\out\main.o: ..\kernel\api\inc\mutex.h
+.\out\main.o: ..\kernel\api\inc\sem.h
+.\out\main.o: ..\kernel\api\inc\wait.h
+.\out\main.o: ..\kernel\api\inc\task.h
+.\out\main.o: ..\kernel\api\inc\timer.h
+.\out\main.o: ..\kernel\api\inc\msg_q.h
+.\out\main.o: ..\kernel\api\inc\memory.h
+.\out\main.o: ..\drivers\stm32f10x\inc\w25p80.h
+.\out\main.o: ..\drivers\stm32f10x\inc\sdcard.h
+.\out\main.o: ..\net\lwip\src\include\lwip/sys.h
+.\out\main.o: ..\net\lwip\src\include\lwip/opt.h
+.\out\main.o: ..\net\lwip\src\include\lwip/debug.h
+.\out\main.o: ..\net\lwip\src\include\lwip/debug.h
+.\out\main.o: ..\net\lwip\src\include\lwip/arch.h
+.\out\main.o: ..\net\lwip\src\include\lwip/arch/cc.h
+.\out\main.o: ..\net\lwip\src\include\lwip/opt.h
+.\out\main.o: ..\net\lwip\src\include\lwip/err.h
+.\out\main.o: ..\net\lwip\src\include\lwip/arch/sys_arch.h
+.\out\main.o: ..\kernel\ucos\include\cpu.h
+.\out\main.o: ..\kernel\ucos\include\cpu_def.h
+.\out\main.o: ..\app\inc\app.h
+.\out\main.o: ..\app\inc\debug.h
+.\out\main.o: ..\app\inc\sys_misc.h
+.\out\main.o: ..\app\inc\tcpapp.h
+.\out\main.o: ..\app\inc\wifi.h
+.\out\main.o: ..\app\inc\test.h
+.\out\main.o: ..\net\udhcp-0.9.8\dhcpd.h
+.\out\main.o: ..\net\udhcp-0.9.8\libbb_udhcp.h
+.\out\main.o: ..\net\udhcp-0.9.8\leases.h
+.\out\main.o: ..\net\lwip\src\include\lwip/def.h
+.\out\main.o: ..\net\lwip\src\include\lwip/api.h
+.\out\main.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\stddef.h
+.\out\main.o: ..\net\lwip\src\include\lwip/netbuf.h
+.\out\main.o: ..\net\lwip\src\include\lwip/pbuf.h
+.\out\main.o: ..\net\lwip\src\include\ipv4\lwip/ip_addr.h
+.\out\main.o: ..\app\inc\webserver.h
+.\out\main.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\cctype
+.\out\main.o: D:\Program Files (x86)\Keil\ARM\RV31\INC\ctype.h
+.\out\main.o: ..\dht11\delay.h
+.\out\main.o: ..\dht11\DHT11_BUS.h
+.\out\main.o: ..\oled\oled.h
+.\out\main.o: ..\oled\bmp.h
