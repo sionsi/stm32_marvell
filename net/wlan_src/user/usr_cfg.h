@@ -11,11 +11,11 @@
 */
 
 #ifdef CHIP_F103
-//#define DEBUG_LEVEL1
-//#define DEBUG_LEVEL2
+#define DEBUG_LEVEL1
+#define DEBUG_LEVEL2
 #else
 #define DEBUG_LEVEL1
-//#define DEBUG_LEVEL2
+#define DEBUG_LEVEL2
 #endif
 
 ///单独sta模式约占用340k flash(不包括固件) + 44k ram(初始化之后)

@@ -3338,8 +3338,10 @@ wlan_set_gen_ie_helper(mlan_private * priv, t_u8 * ie_data_ptr, t_u16 ie_len)
 				
                 memcpy(priv->adapter, (t_u8 *) priv->wps.wps_ie, ie_data_ptr,
                        ie_len);
+/*
                 HEXDUMP("wps_ie", (t_u8 *) priv->wps.wps_ie,
                         priv->wps.wps_ie.vend_hdr.len + 2);
+*/
             } else {
                 /* Only wps oui exist, reset driver wps buffer */
                 memset(priv->adapter, (t_u8 *) priv->wps.wps_ie, 0x00,

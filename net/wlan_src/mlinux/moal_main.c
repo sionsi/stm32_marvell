@@ -195,7 +195,8 @@ moal_handle *m_handle[MAX_MLAN_ADAPTER];
 #define DEFAULT_DEBUG_MASK	(MEVENT | MMSG | MFATAL | MERROR)
 #endif /* DEBUG_LEVEL2 */
 //MENTRY|MFW_D|MCMD_D这几项屏蔽掉,打印东西太多了
-t_u32 drvdbg = DEFAULT_DEBUG_MASK & (~(MENTRY|MFW_D|MCMD_D));
+//t_u32 drvdbg = DEFAULT_DEBUG_MASK & (~(MENTRY|MFW_D|MCMD_D));
+t_u32 drvdbg = DEFAULT_DEBUG_MASK;
 t_u32 drvdbg_save = DEFAULT_DEBUG_MASK & (~(MENTRY|MFW_D|MCMD_D));
 
 #endif /* DEBUG_LEVEL1 */
